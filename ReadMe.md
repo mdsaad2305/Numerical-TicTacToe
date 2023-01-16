@@ -33,9 +33,6 @@ to run GUI
 java -jar build/libs/A3.jar
 ```
 
-## Author Information
-
-name :  Mohammed Saad Vuppukar
 
 
 
